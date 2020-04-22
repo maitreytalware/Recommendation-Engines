@@ -22,9 +22,10 @@ Here we will cover Neighborhood Based Collaborative Filtering, which is used to 
 ## 2. Common metrics used to find closest neighbors
 
 There are a number of ways we might go about finding an individual's closest neighbors
-
-1. Pearson's correlation coefficient
-2. Spearman's correlation coefficient
-3. Kendall's Tau
-4. Euclidean Distance
-5. Manhattan Distance
+1. **Similarity Based Measures**
+    1. Pearson's correlation coefficient
+    2. Spearman's correlation coefficient
+    3. Kendall's Tau
+2. **Distance Based Measures**
+    1. Euclidean Distance
+    2. Manhattan Distance
